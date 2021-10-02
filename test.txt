@@ -2,4 +2,14 @@ test test test test
 
 master text
 
+func2
+
+new
+
 master func
+
+1
+
+2
+
+3.
