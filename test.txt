@@ -17,3 +17,5 @@ master func
 4.
 
 my master
+
+my master2
