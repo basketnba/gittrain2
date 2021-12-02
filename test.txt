@@ -22,6 +22,11 @@ not vety import
 my master
 
 my master2
+my Branch4
+
+my Branch5
+
+my Branch6
 my master3
 my master4
 my master5
@@ -33,3 +38,4 @@ my Branch4
 my Branch5
 
 my Branch6
+my Branch7
